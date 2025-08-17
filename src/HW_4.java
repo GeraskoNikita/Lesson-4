@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Lesson_4 {
+public class HW_4 {
     public static int bossHealth = 700;
     public static int bossDamage = 50;
     public static String bossDefence;
@@ -129,3 +129,4 @@ public class Lesson_4 {
         }
     }
 }
+
